@@ -20,7 +20,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Mark Bot'\'re fine'
+global.packname = 'Mark Bot' // 're fine'
 global.author = 'By Asyraf'
 
 global.multiplier = 69 // The higher, The harder levelup
